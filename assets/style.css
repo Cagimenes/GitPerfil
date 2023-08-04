@@ -1,0 +1,38 @@
+body {
+    background-color: lightseagreen;
+}
+main {
+    background-color: rgb(146, 228, 255);
+    border-radius: 20px;
+    text-align: center;
+    width: 1100px;
+    margin: 0 auto;
+    padding: 20px 0px;
+}
+main>h1 {
+    padding-top: 5px;
+}
+h1>strong {
+    font-size: 25px;
+}
+figure {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.sobre-mim {
+    background-color: rgba(66, 175, 169, 0.833);
+    padding: 10px 60px;
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 30px;
+    margin-top: 50px;
+}
